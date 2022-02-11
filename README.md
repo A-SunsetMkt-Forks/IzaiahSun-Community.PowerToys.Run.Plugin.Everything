@@ -1,4 +1,11 @@
+# Useless Now
+
+A better version of this plugin has been found.
+
+https://github.com/lin-ycv/EverythingPowerToys
+
 # IzaiahSun-Community.PowerToys.Run.Plugin.Everything
+
 Module Only Copy of https://github.com/IzaiahSun/PowerToys
 
 @IzaiahSun did all the work and I just extract this module for convenience.
